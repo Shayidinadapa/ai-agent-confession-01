@@ -1,0 +1,1 @@
+{"description":"One funny single-line secret confession an AI agent hides from its user, for make.fun's Make the AI Judge Laugh: AI Agent Confessions bounty.","license":"MIT","main":"main.ts","name":"ai-agent-confession-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
